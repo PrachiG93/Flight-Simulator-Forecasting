@@ -14,4 +14,6 @@ Ans: Measured by residual error (model forecast output against the historical da
 4. Your data set. It should have a time component, a column on what you are forecasting at a minimum. You can have more columns as well.
 
 5. Describe your data, where you got it, how you got it, is there a way others can do the same. 
-ANS: This is historical data from a pilot training company’s instructor and simulator utilization. Information is maintained for internal use and employees of the business can obtain the same information through their enterprise analytics dashboard. **
+ANS: This is historical data from a pilot training company’s instructor and simulator utilization. Information is maintained for internal use and employees of the business can obtain the same information through their enterprise analytics dashboard.
+
+Team Members: https://github.com/JordanKnowles
