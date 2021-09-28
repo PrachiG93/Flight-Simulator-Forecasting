@@ -17,3 +17,4 @@ Ans: Measured by residual error (model forecast output against the historical da
 ANS: This is historical data from a pilot training company’s instructor and simulator utilization. Information is maintained for internal use and employees of the business can obtain the same information through their enterprise analytics dashboard.
 
 Team Members: https://github.com/JordanKnowles
+              https://github.com/EJdata
